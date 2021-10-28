@@ -23,8 +23,8 @@ status-website:
   cname: status.legal-i.ch
   # baseUrl: /status
   logoUrl: https://app.dev.legal-i.ch/logo_v1.png
-  name: Status Page
-  introTitle: "**legal-i Status**"
+  name: 
+  introTitle: "System Status"
   introMessage: 
   navbar:
     - title: Status
