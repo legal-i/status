@@ -23,14 +23,16 @@ status-website:
   cname: status.legal-i.ch
   # baseUrl: /status
   logoUrl: https://app.dev.legal-i.ch/logo_v1.png
-  name: legal-i Status Page
+  name: Status Page
   introTitle: "**legal-i Status**"
   introMessage: 
   navbar:
-    - title: legal-i Status
+    - title: Status
       href: /
-    - title: legal-i App
+    - title: App
       href: https://app.legal-i.ch
+    - title: Web
+      href: https://www.legal-i.ch
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
