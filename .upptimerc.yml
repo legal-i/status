@@ -7,15 +7,10 @@ sites:
     url: https://app.legal-i.ch
   - name: legal-i API
     url: https://api.legal-i.ch/api/v1/short-commit-id
-  - name: legal-i Ingest
-    url: https://api.legal-i.ch/api/v1/short-commit-id
+  - name: legal-i Agents API
+    url: https://agents.legal-i.ch/api/v1/short-commit-id
   - name: legal-i Website
     url: https://www.legal-i.ch
-
-assignees: # Users to assign downtime issues (optional)
-  - MBA
-  - RSC
-  - NDV
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
