@@ -4,9 +4,9 @@
     "url": "https://app.legal-i.ch",
     "icon": "https://favicons.githubusercontent.com/app.legal-i.ch",
     "slug": "legal-i-app",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 1039,
     "timeMonth": 945,
     "timeYear": 893,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-12-15": 0
+    }
   },
   {
     "name": "legal-i API",
@@ -59,11 +61,11 @@
     "icon": "https://favicons.githubusercontent.com/www.legal-i.ch",
     "slug": "legal-i-website",
     "status": "up",
-    "uptime": "99.94%",
+    "uptime": "99.95%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.94%",
+    "uptimeYear": "99.95%",
     "time": 282,
     "timeDay": 140,
     "timeWeek": 176,
