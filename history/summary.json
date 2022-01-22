@@ -24,19 +24,19 @@
     "url": "https://api.legal-i.ch/api/v1/short-commit-id",
     "icon": "https://favicons.githubusercontent.com/api.legal-i.ch",
     "slug": "legal-i-api",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 878,
-    "timeDay": 12326,
-    "timeWeek": 3532,
-    "timeMonth": 1356,
-    "timeYear": 878,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.27%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
+    "time": 876,
+    "timeDay": 8443,
+    "timeWeek": 3215,
+    "timeMonth": 1335,
+    "timeYear": 876,
     "dailyMinutesDown": {
-      "2022-01-22": 0
+      "2022-01-22": 11
     }
   },
   {
@@ -44,19 +44,19 @@
     "url": "https://agents.legal-i.ch/api/v1/short-commit-id",
     "icon": "https://favicons.githubusercontent.com/agents.legal-i.ch",
     "slug": "legal-i-agents-api",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 612,
-    "timeDay": 599,
-    "timeWeek": 600,
-    "timeMonth": 608,
-    "timeYear": 612,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.27%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
+    "time": 613,
+    "timeDay": 616,
+    "timeWeek": 606,
+    "timeMonth": 609,
+    "timeYear": 613,
     "dailyMinutesDown": {
-      "2022-01-22": 0
+      "2022-01-22": 11
     }
   },
   {
