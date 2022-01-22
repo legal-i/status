@@ -1,7 +1,7 @@
 url: https://api.legal-i.ch/api/v1/short-commit-id
-status: up
-code: 200
-responseTime: 439
-lastUpdated: 2022-01-21T23:05:02.618Z
+status: down
+code: 502
+responseTime: 24213
+lastUpdated: 2022-01-22T21:34:41.027Z
 startTime: Thu Oct 28 2021 18:33:13 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
