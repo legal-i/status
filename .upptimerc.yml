@@ -6,9 +6,9 @@ sites:
   - name: legal-i App
     url: https://app.legal-i.ch
   - name: legal-i API
-    url: https://api.legal-i.ch/api/v1/short-commit-id
+    url: https://api.legal-i.ch/api/v1/version
   - name: legal-i Agents API
-    url: https://agents.legal-i.ch/api/v1/short-commit-id
+    url: https://agents.legal-i.ch/api/v1/version
   - name: legal-i Website
     url: https://www.legal-i.ch
 
