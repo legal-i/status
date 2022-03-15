@@ -17,7 +17,7 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.legal-i.ch
   # baseUrl: /status
-  logoUrl: https://app.dev.legal-i.ch/logo_v1.png
+  logoUrl: https://app.legal-i.ch/logo.svg
   name: ""
   introTitle: "System Status"
   introMessage: 
